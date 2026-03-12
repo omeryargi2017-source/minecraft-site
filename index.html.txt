@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Minecraft Towny Sunucusu</title>
+
+<style>
+
+body{
+font-family: Arial;
+margin:0;
+background:#0f2f0f;
+color:white;
+}
+
+header{
+background:#1f7a1f;
+padding:20px;
+text-align:center;
+font-size:30px;
+}
+
+nav{
+background:#145214;
+padding:10px;
+text-align:center;
+}
+
+nav a{
+color:white;
+margin:15px;
+text-decoration:none;
+font-size:18px;
+}
+
+section{
+padding:40px;
+text-align:center;
+}
+
+.button{
+background:white;
+color:green;
+padding:10px 20px;
+text-decoration:none;
+border-radius:5px;
+}
+
+footer{
+background:#145214;
+padding:20px;
+text-align:center;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+Minecraft Towny Sunucusu
+</header>
+
+<nav>
+<a href="#tanitim">Tanıtım</a>
+<a href="#premium">Premium</a>
+<a href="#indir">İndirme</a>
+<a href="#iletisim">İletişim</a>
+</nav>
+
+<section id="tanitim">
+<h2>Sunucu Tanıtımı</h2>
+<p>Towny sistemli Minecraft sunucumuza hoş geldiniz!  
+Kendi şehrinizi kurun, arkadaşlarınızla oynayın ve büyük bir krallık oluşturun.</p>
+</section>
+
+<section id="premium">
+<h2>Premium</h2>
+<p>Premium oyuncular özel avantajlar kazanır.</p>
+<p>Özel kitler, özel alanlar ve daha fazlası!</p>
+</section>
+
+<section id="indir">
+<h2>Minecraft İndir</h2>
+<p>Minecraft'ı indirip sunucumuza katılabilirsiniz.</p>
+
+<a class="button" href="https://www.minecraft.net/download">Minecraft İndir</a>
+
+</section>
+
+<section id="iletisim">
+<h2>İletişim</h2>
+
+<p>Email: seninmailin@example.com</p>
+
+<p>Bizimle iletişime geçmek için email adresimizi kullanabilirsiniz.</p>
+
+</section>
+
+<footer>
+© 2026 Minecraft Towny Sunucusu
+</footer>
+
+</body>
+</html>
